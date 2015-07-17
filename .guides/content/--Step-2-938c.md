@@ -3,7 +3,7 @@
 <ol>
 <li>In the <b>script.js</b> file, add the following code to create a new function named <code>display</code> that takes a parameter called <code>event</code>:
 <pre>function display(event){
-<br>}end of display()</pre>
+<br>}//end of display()</pre>
 </li>
 <li>
 Within the <code>display()</code> function, enter the following <b>jQuery</b> <em>selector</em> to select the <code>currentTarget</code> value of the event parameter:

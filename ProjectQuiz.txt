@@ -1,9 +1,9 @@
-*****************************************************
-Project Name:  Recipe Display Application
-Author: 
-Date:   
+************************************************************************
+Project Name:  Recipe Display Application  --  Project Quiz
+Author: Nick Szabo 
+Date: 7/17/15   
 Participation Assignment (25 points)
-*****************************************************
+************************************************************************
 
 Instructions:  
 Answer the following questions for Lesson 7 Assignment
@@ -13,6 +13,7 @@ Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
 
+So that the page loads and reads the jquery basic code library, and then after it loads the second .js file that actually contains the code that we edited and changed in order to use it. If we put this .js file first, the program wouldn't be familiar with the jquery yet.
 
 
 
@@ -21,7 +22,7 @@ Question #2:  (5 points)
 ++++++++++++
 Why should you avoid including jQuery in a project if you don't need it?
 
-
+If you don't need it, it can slow the loading and run-time of the application, and there are always multiple ways to write javascript without the use of jQuery.
 
 
 
@@ -31,7 +32,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-
+Every jQuery statement starts with a $.
 
 
 
@@ -39,3 +40,14 @@ How does every jQuery statement start?
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+CDN is a method of avoiding using a single server and dispersing the files across multiple systems.
+
+Some examples of some advantages are
+1) Allows for faster loading and can accomodate heavier online traffic.
+2) Mirrors files in case of a disaster, so files aren't lost
+3) Minimizes packet losses, improving video streaming quality
+4) Many commercial CDN's provide usage analytics to provide the user with helpful analytical numbers
+
+
+
+

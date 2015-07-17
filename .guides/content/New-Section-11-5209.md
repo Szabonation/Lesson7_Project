@@ -1,10 +1,10 @@
 <center><h1>Write the code to create the event listeners for the <code>h3</code> elements that call the <code>display()</code> function.</h1></center>
 <ol>
 <li>
-<b>Below</b> the closing brace <b><code>}</code></b> for the <code>display()</code> function, enter the following statement to create event listeners for the <code>h3</code> elements that call the <code>display()</code> function when they are clicked:
+<b>Below</b> the closing braces <b><code>}</code></b> for the <code>display()</code> function, enter the following statement to create event listeners for the <code>h3</code> elements that call the <code>display()</code> function when they are clicked:
 
 You should have the following code now:
-<pre>$("h3").click(display);</pre>
+<pre>("h3").click(display);</pre>
 
 The <code>click()</code> function specifies the code to execute on the <b>click</b> event.  
 </li>
@@ -20,7 +20,7 @@ Just above the <code>script</code> element you created in the previous step, add
 <pre>&ltscript src="jquery-1.11.1.min.js">&lt/script>
 </li>
 <li>
-Open the <b>index.htm</b> in a browser, and click the <b>Ingredients</b> and <b>Instructions</b> headers.  The ingredients list should now display using the jQuery <code>fadeIn</code> animation method after the user clicks the Ingredients header, and the instructions are displayed in the same way after the user clicks the Instructions header, as shown below.
+Open the <b>index.htm</b> in a browser, and click the <b>Ingredients</b> and <b>Instructions</b> headers.  The ingredients list should now display using the jQuery <code>fadeIn</code> animation method after the user click the Ingredients header, and the instructions are displayed in the same way after the user clicks the Instructions header, as shown below.
 </li>
 <center>
 <h1>Completed Recipe Display App</h1>

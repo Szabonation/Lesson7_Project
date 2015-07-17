@@ -1,4 +1,4 @@
-<center><h1>Coding Drill:  jQuery Methods for DOM Manipulation, Modifying HTML and Handling Common Events.</h1></center>
+<center><h1>Coding Drill:  jQuery Methods for DOM Manipulation.</h1></center>
 
 <ol>
 
@@ -33,7 +33,7 @@ Type the following statement in the Javascript Console, then press enter.  <br><
 </li>
 
 <li>
-Type the following statement in the Javascript Console, then press enter.  Observe the changes made to the application. <br><center> <b>$(“li”).html("yum yum yum)</b></center>
+Type the following statement in the Javascript Console, then press enter.  Observe the changes made to the application. <br><center> <b>$(“li”).html("yum yum yum")</b></center>
 <br><center><b>RESULT - Demonstrating ".html()" and setting HTML element's values</b></center><br><center>
 <img src=".guides/img/trav11.png" alt="" /></center>
 <br><center>

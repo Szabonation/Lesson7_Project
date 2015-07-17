@@ -33,14 +33,6 @@
    "content-file": ".guides/content/--Step-3-c81b.md"
   },
   {
-   "id": "5209db59-accf-174a-6d57-cbcaeae06450",
-   "title": "Git Repository",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-5209.md"
-  },
-  {
    "id": "c1bd214-91e5-4ef8-e6b3-28a34782510a",
    "title": "Coding Drill #1",
    "files": [],
@@ -87,6 +79,14 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Extra-Credit---4--ce25.md"
+  },
+  {
+   "id": "5209db59-accf-174a-6d57-cbcaeae06450",
+   "title": "Git Repository (10 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Git-Repository--10-pts--5209.md"
   }
  ],
  "theme": "paper",

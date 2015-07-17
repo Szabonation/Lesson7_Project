@@ -6,7 +6,7 @@
 
 <h1><b>Project Quiz:</b></h1>
 <ul>
-<li>Open the file located in the <b>LIS2360_Lesson7_Assignment</b> project entitled: <b>ProjectQuiz.txt</b></li>
+<li>Open the file located in the <b>LIS2360_Lesson7_Assignment_Student</b> project entitled: <b>ProjectQuiz.txt</b></li>
 <li>The questions do NOT solely pertain to the "Recipe Display App", but instead apply to the concepts learned in Lesson 7. Answer the questions by including your answers in the <b>ProjectQuiz.txt</b> file: </li>
 </ul>
 <h1><b>Questions:</b></h1>
